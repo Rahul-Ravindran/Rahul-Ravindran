@@ -16,6 +16,7 @@ I'm **Rahul Ravindran** from Kerala, India. I have working in *Anxial Technologi
 ![XD](https://img.shields.io/badge/-Adobe%20Xd-05122A?style=flat&logo=adobe-xd)&nbsp;
 
 ## Follow me
+<a href="https://www.linkedin.com/in/rahul-ravi" target="_blank">![XD](https://img.shields.io/badge/-facebook-05122A?style=flat&logo=facebook)</a>
 [LinkedIn](https://www.linkedin.com/in/rahul-ravi) | [Facebook](https://www.facebook.com/kannan.tklm) | [Instagram](https://www.instagram.com/kannantklm)
 
 ## Website
