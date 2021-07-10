@@ -16,8 +16,9 @@ I'm **Rahul Ravindran** from Kerala, India. I have working in *Anxial Technologi
 ![XD](https://img.shields.io/badge/-Adobe%20Xd-05122A?style=flat&logo=adobe-xd)&nbsp;
 
 ## Follow me
-<a href="https://www.linkedin.com/in/rahul-ravi" target="_blank">![XD](https://img.shields.io/badge/-facebook-05122A?style=flat&logo=facebook)</a>
-[LinkedIn](https://www.linkedin.com/in/rahul-ravi) | [Facebook](https://www.facebook.com/kannan.tklm) | [Instagram](https://www.instagram.com/kannantklm)
+<a href="https://www.linkedin.com/in/rahul-ravi" target="_blank">![XD](https://img.shields.io/badge/-linkedin-0A66C2?style=flat&logo=linkedin)</a>&nbsp;
+<a href="https://www.facebook.com/kannan.tklm" target="_blank">![XD](https://img.shields.io/badge/-facebook-1877F2?style=flat&logo=facebook&logoColor=ffffff)</a>&nbsp;
+<a href="https://www.instagram.com/kannantklm" target="_blank">![XD](https://img.shields.io/badge/-instagram-E4405F?style=flat&logo=instagram&logoColor=ffffff)</a>&nbsp;
 
 ## Website
 Please visit [www.wisteria.in](http://wisteria.in/) for more about me.
